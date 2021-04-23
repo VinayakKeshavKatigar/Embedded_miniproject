@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619189656 source:c:\users\vvkat\desktop\embeddedc\testboard2\fuse.c
+	<avr/io.h>
+
+1619199795 source:c:\users\vvkat\desktop\embeddedc\testboard2\main.c
+	<avr/io.h>
+	<util/delay.h>
+
